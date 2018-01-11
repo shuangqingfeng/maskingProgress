@@ -24,4 +24,4 @@
        + AT_MOST<br/>
        字面理解：最大值。 也就是 我们在不指定具体的宽高，让View根据自身的内容来确定以高宽，只要不超过父控件的宽高即可。<br/>
       测量模式决定了View最终的的宽高。其实在系统中也都是继承自View ，通过重写View 来实现的现有控件的，比如 TextView、ImageView.本项目就是继承自ImageView ，对ImageView现有的控件进行一个扩展。先不说本项目的实现，我们先认识自定义View的结构。<br/>
-    + onDraw()
+   + onDraw()
