@@ -13,9 +13,10 @@
  + 继承 View
  + 重写 onMeasure
  + 重写 onDraw()<br/>
- 三步曲 是自定义View的基础步骤，我们细细说说  onMeasure() 和 onDraw() 方法 ，在下面文字中，如果有理解不对的地方的地方还望指教，共同进步。
+ 三步曲 是自定义View的基础步骤，我们细细说说  onMeasure() 和 onDraw() 方法 ，在下面文字中，如果有理解不对的地方的地方还望指教，共同进步。<br/>
+    + onMeasure()
  
- ###### onMeasure
+
  
  
  
