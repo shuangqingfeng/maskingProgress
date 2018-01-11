@@ -13,4 +13,4 @@
     ``` 
      MaskingProgressView extends ImageView
      ````
-   + 重写 onMeasure()
+    + 重写 onMeasure()
