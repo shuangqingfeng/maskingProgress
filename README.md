@@ -16,10 +16,10 @@
  三步曲 是自定义View的基础步骤，我们细细说说  onMeasure() 和 onDraw() 方法 ，在下面文字中，如果有理解不对的地方的地方还望指教，共同进步。<br/>
     + onMeasure()<br/>
     字面理解为：测量。即对View进行宽高测量,以便在屏幕显示多大空间<br/>
-      + View的测量有三种模式：<br/>
-       + EXACTLY<br/>
+     + View的测量有三种模式：<br/>
+      + EXACTLY<br/>
           字面理解：精确。何为精确模式呢？也就是说是有具体的数值来表示的。比如我们在xml 指定 View的宽高分别给定的是 具体的值，那么系统在调用onMeasure() 方法的时候就使用这种模式测量View.<br/>
-       + UNSPECIFIED<br/>
+      + UNSPECIFIED<br/>
           
  
 
