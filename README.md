@@ -10,7 +10,7 @@
   + 自定View三部曲
    + 继承View 
    
-   ``` 
+    ``` 
      MaskingProgressView extends ImageView
      ````
      
