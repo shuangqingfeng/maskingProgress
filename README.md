@@ -9,8 +9,10 @@
 + 自定义 ImageView
   + 自定View三部曲
    + 继承View 
-   `  ``Java
-  MaskingProgressView extends ImageView
+      `  ``Java
+
    ``` 
+     MaskingProgressView extends ImageView
+     ````
    + 重写 onMeasure()
    + 重写 onDraw()
