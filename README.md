@@ -6,7 +6,7 @@
 
 ###### 两部分解说本项目：
 + 效果中的图片选择框架用的是 [okhttp-OkGo](https://github.com/jeasonlzy) 网络框架的作者 jeasonlzy,再次感谢作者提供轮子，供我们使用， 点击查看[图片选择框架](https://github.com/jeasonlzy/ImagePicker)
-* V1.0 
- * 待优化:
-   * 存在图片加载缓慢，加载不出来的
-   * 详情页面加载缓慢的优化，主题背景设计
++ 自定义 ImageView
+ + 自定
+    + 存在图片加载缓慢，加载不出来的
+     + 详情页面加载缓慢的优化，主题背景设计
