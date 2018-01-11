@@ -12,7 +12,7 @@
 + 自定义 View 分为三步曲
  + 继承 View
  + 重写 onMeasure
- + 重写 onDraw()
+ + 重写 onDraw()<br/>
  三步曲 是自定义View的基础步骤
  
  
