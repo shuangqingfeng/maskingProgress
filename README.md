@@ -9,10 +9,11 @@
 + 自定义 ImageView
   
 ###### 如何自定义view
-+ 自定义 View 分为三部曲
++ 自定义 View 分为三步曲
  + 继承 View
  + 重写 onMeasure
  + 重写 onDraw()
+ 三步曲 是自定义View的基础步骤
  
-   + 
+ 
  
