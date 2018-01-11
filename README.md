@@ -6,8 +6,8 @@
 
 ###### 两部分解说本项目：
 + 效果中的图片选择框架用的是 [okhttp-OkGo](https://github.com/jeasonlzy) 网络框架的作者 jeasonlzy,再次感谢作者提供轮子，供我们使用， 点击查看[图片选择框架](https://github.com/jeasonlzy/ImagePicker)
-+ 自定义 ImageView
- +  自定义 View 有三部曲：
-  +   继承 View
-  +   重写 onMeasure()
-  +   重写 onDraw() 
+- 自定义 ImageView
+ -  自定义 View 有三部曲：
+  -   继承 View
+  -   重写 onMeasure()
+  -   重写 onDraw() 
